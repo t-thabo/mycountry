@@ -1,0 +1,12 @@
+body{
+    background-color: springgreen;
+}
+.first{
+    position: relative;
+    float: left;
+    background-color: brown;
+}
+.second{
+    position: relative;
+    float: left;
+}
